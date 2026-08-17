@@ -1,0 +1,7 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Maniraja logo</title>
+<desc>A horizontal wordmark logo with a circular initial mark for Maniraja, suitable for a portfolio header.</desc>
+<circle cx="220" cy="110" r="42" fill="none" stroke="#1f2937" stroke-width="2.5"/>
+<text x="220" y="123" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#1f2937">M</text>
+<text x="288" y="123" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="600" letter-spacing="2" fill="#1f2937">Mani<tspan fill="#9ca3af">raja</tspan></text>
+</svg>
